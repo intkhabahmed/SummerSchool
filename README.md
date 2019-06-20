@@ -20,3 +20,6 @@ https://www.androidhive.info/2016/01/android-working-with-recycler-view/
  
 4. SQLite Database 
 https://www.androidhive.info/2011/11/android-sqlite-database-tutorial/  
+
+implementation 'com.squareup.retrofit2:retrofit:2.6.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.5.0'
