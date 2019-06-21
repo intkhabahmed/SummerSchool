@@ -1,7 +1,7 @@
 # SummerSchool
 
 <b>App Feedback Competition</b>
-<p>Here is the link to give feedback - https://forms.gle/Cyn4VEashHHCdX7E9</p>
+<blockquote>Here is the link to give app feedback - https://forms.gle/Cyn4VEashHHCdX7E9</blockquote>
 
 
 Feedback Form - https://forms.gle/FtZm8L9gXMv3RJmA6
